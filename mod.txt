@@ -1,3 +1,5 @@
+﻿Testando modificação do texto 
+
 1) Crie no seu computador um diretório chamado "aula"
 
 2) Inclua nele alguns arquivos, por exemplo, os pdfs das aulas. Inclua
@@ -6,7 +8,6 @@ inclua outros também.
 
 3) Transforme esse diretório em um repositório Git.
 
-4) Inclua todos os arquivos do diretório no repositório.
 
 5) Modifique o arquivo "mod.txt" acrescentando algumas linhas e removendo
 outras. É melhor se você fizer isso escrevendo texto entendível, ao
@@ -76,4 +77,3 @@ equipe.
 29) Modifique os arquivos que lá estão contidos e tente atualizar o
 repositório remoto. Todos os membros da equipe devem fazer isso e
 resolver conflitos à medida que surgem. 
-
