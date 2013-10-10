@@ -1,21 +1,6 @@
-﻿Testando modificação do texto 
-
-1) Crie no seu computador um diretório chamado "aula"
-
-2) Inclua nele alguns arquivos, por exemplo, os pdfs das aulas. Inclua
-também pelo menos um arquivo texto chamado "mod.txt". Se possível,
-inclua outros também.
-
-3) Transforme esse diretório em um repositório Git.
+﻿
 
 
-5) Modifique o arquivo "mod.txt" acrescentando algumas linhas e removendo
-outras. É melhor se você fizer isso escrevendo texto entendível, ao
-invés de apenas digitar caracteres aleatórios. Assim fica mais fácil de
-entender o que mudou.
-
-6) Peça para o Git lhe mostrar as diferenças entre a versão anterior do
-arquivo e a que você acabou de modificar.
 
 7) Inclua o arquivo modificado no índice e repita a operação (garantindo
 que o Git lhe mostre as diferenças).
